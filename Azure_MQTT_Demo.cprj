@@ -3,7 +3,8 @@
   <created timestamp="2020-07-17T17:12:21" tool="cbuildgen 0.9.0"/>
 
   <info isLayer="false">
-    <description>Automatic generated project</description>
+    <name>Azure MQTT Demo</name>
+    <description>This demo application connects to Azure IoT Hub through MQTT, sends messages and checks for receive confirmation.</description>
     <category>Board, Cloud, IoT, Module, RTOS, Socket, WiFi</category>
     <keywords>Azure, Board, ESP8266, MQTT, Module, RTOS, RTX, STM32L562E-DK, Socket, WiFi</keywords>
     <license>Apache 2.0, BSD 3-Clause, MIT</license>
